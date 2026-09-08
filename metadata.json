@@ -1,0 +1,6 @@
+{
+  "name": "Racing Video Factory",
+  "description": "Automated Multi-Instance Racing Video Generation Engine & Simulation Factory with AI Auto-Pilot, 10 Cinematic Cameras, and Video Recording Pipeline",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
